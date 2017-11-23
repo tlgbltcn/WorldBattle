@@ -1,0 +1,5 @@
+Resources are 5000 meter away
+Hero has 500 hp
+Hero attack is 10
+Mutant is Character. has hp 400 attack point 8 location 4897 meter.
+Hero vs Mutant battle and Hero won. 180 health left.
